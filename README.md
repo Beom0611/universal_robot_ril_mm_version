@@ -1,1 +1,1 @@
-# ur3_robotiq_husky
+# universal robot & ur_husky ver
