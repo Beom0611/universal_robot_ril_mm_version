@@ -1,2 +1,2 @@
 # universal robot & ur_husky ver    
-@ (https://github.com/ros-industrial/universal_robot)
+@Universal Robot Pkg (https://github.com/ros-industrial/universal_robot) + ur5_husky.urdf(modified)
